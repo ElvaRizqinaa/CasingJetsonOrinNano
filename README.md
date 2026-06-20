@@ -1,9 +1,9 @@
 # CasingJetsonOrinNano
 Proses cara membuat casing pelindung untuk mini PC/development board seperti Jetson Orin Nano
 
-# Pemodelan Mekanis: Desain & Assembly Casing Mini PC (SolidWorks)
+# Desain & Assembly Casing Mini PC (SolidWorks)
 
-Selamat datang di repository **Desain Casing Mini PC**. Repository ini mendokumentasikan proses perancangan dan perakitan (*assembly*) 3D casing pelindung untuk development board Jetson Orin Nano menggunakan *software* SolidWorks.
+Repository ini mendokumentasikan proses perancangan dan perakitan (*assembly*) 3D casing pelindung untuk development board Jetson Orin Nano menggunakan *software* SolidWorks.
 Proyek ini dibuat sebagai bagian dari Praktikum CAD CAM di program studi Teknologi Rekayasa Otomasi, bertujuan untuk melatih akurasi dimensi mekanis dan pemahaman struktur komponen modular.
 
 ## Tentang Proyek Ini
