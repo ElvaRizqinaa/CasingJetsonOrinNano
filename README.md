@@ -21,9 +21,4 @@ Membuat geometri komponen pembentuk dari dasar sketsa 2D hingga menjadi objek 3D
 
 ### 3. Perakitan (*Assembly*)
 * Menggabungkan komponen *Base* dan *Top Cover* di dalam lingkungan `.SLDASM`.
-* Penerapan **Standard Mates** (Concentric, Coincident) untuk memastikan posisi pengunci dan lubang sekrup antar-part sejajar secara mekanis.
-
-
-
----
-*Dibuat untuk keperluan edukasi Praktikum CAD CAM dan pengembangan purwarupa mekanis.*
+* Penerapan **Standard Mates** (Concentric, Coincident) untuk memastikan posisi pengunci dan lubang sekrup antar-part sejajar secara mekanis.`
